@@ -1,5 +1,6 @@
 # polybar-btc
-polybar btc coin
+![image](http://github.com/blackstorm/blackstorm/polybar-btc/raw/master/preview.png)
+show btc coin on your polybar
 
 ## how to use
 1. clone project to polybar script dir
