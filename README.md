@@ -1,5 +1,5 @@
 # polybar-btc
-![image](http://github.com/blackstorm/blackstorm/polybar-btc/raw/master/preview.png)
+![image](https://github.com/blackstorm/polybar-btc/raw/master/preview.png)
 show btc coin on your polybar
 
 ## how to use
